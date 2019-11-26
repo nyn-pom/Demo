@@ -1,7 +1,1 @@
-new changes
-
-<<<<<<< HEAD
-Local commit
-=======
-Online commit
->>>>>>> 5f9872415cfacaa1d30fadcd86efd1d8c9e9aaf0
+test
